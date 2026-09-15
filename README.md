@@ -22,7 +22,7 @@ The model classifies facial expressions into seven categories:
 * Sadness
 * Surprise
 
-The trained model achieved a **90.16% validation accuracy** on the CK+48 dataset.
+The trained model achieved a **91.19% validation accuracy** on the CK+48 dataset.
 
 ---
 
@@ -203,7 +203,7 @@ The trained VGG16 model achieved:
 
 ### Validation Accuracy
 
-**90.16%**
+**91.19%**
 
 Training and validation accuracy/loss curves were generated to monitor the learning process and evaluate model performance.
 
@@ -423,7 +423,7 @@ pip install -r requirements.txt
 * Early Stopping
 * Learning Rate Reduction
 * Model Checkpointing
-* **90.16% Validation Accuracy**
+* **91.19% Validation Accuracy**
 * Custom Image Prediction
 * Confidence Score for Predictions
 
