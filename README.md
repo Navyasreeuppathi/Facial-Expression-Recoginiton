@@ -2,7 +2,7 @@
 
 A deep learning-based **Facial Emotion Recognition (FER)** system that classifies human facial expressions into seven emotion categories using **VGG16 Transfer Learning** and the **CK+48 dataset**.
 
-**Validation Accuracy: 90.16%**
+**Validation Accuracy: 91.19%**
 
 ---
 
